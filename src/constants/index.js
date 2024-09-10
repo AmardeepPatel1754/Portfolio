@@ -83,11 +83,11 @@ export const PROJECTS = [
     URL: "https://github.com/AmardeepPatel1754/Expense_Tracker"
   },
   {
-    title: "Todo-List Application",
+    title: "Todo-List",
     image: project2,
     description:
       "Developed a dynamic To-Do List application using React, HTML, CSS, and localStorage, enabling users to manage tasks with persistent data storage and interactive features",
-    technologies: ["HTML", "CSS", "JavaScript", "React", "localStorage", "Vite", "Tailwind CSS"],
+    technologies: ["HTML", "JavaScript", "React", "localStorage", "Vite", "Tailwind CSS"],
     URL: "https://github.com/AmardeepPatel1754/Todo-List"
   },
   {
@@ -95,7 +95,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Vite", "Framer Motion", "Tailwind CSS"],
+    technologies: ["HTML", "React", "Vite", "Framer Motion", "Tailwind CSS"],
     URL: ""
   },
   {
