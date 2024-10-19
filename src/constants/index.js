@@ -19,28 +19,35 @@ export const STUDIES = [
 
 export const CERTIFICATES = [
   {
-    Course: "Meta Certified React Basics",
+    Course: "React Basics",
     Organisation: "Meta",
     Year: "July 2024",
     Credential: "",
   },
 
   {
-    Course: "Meta Certified Programming With JavaScript",
+    Course: "Programming With JavaScript",
+    Organisation: "Meta",
+    Year: "July 2024",
+    Credential: "",
+  },
+
+  {
+    Course: "HTML and CSS in depth",
     Organisation: "Meta",
     Year: "July 2024",
     Credential: "",
   },
   
   {
-    Course: "Meta Certified Version Control",
+    Course: "Version Control",
     Organisation: "Meta",
     Year: "July 2024",
     Credential: "",
   },
 
   {
-    Course: "Meta Certified Introduction to Front-End Development",
+    Course: "Introduction to Front-End Development",
     Organisation: "Meta",
     Year: "June 2024",
     Credential: "",
@@ -50,6 +57,13 @@ export const CERTIFICATES = [
     Course: "Learning C#",
     Organisation: "LinkdIn",
     Year: "Sept 2023",
+    Credential: "",
+  },
+
+  {
+    Course: "Diploma in Multilingual Computer Programming",
+    Organisation: "C-DAC",
+    Year: "Sept 2022",
     Credential: "",
   }
 ];
