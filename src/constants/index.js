@@ -70,7 +70,7 @@ export const CERTIFICATES = [
 
 export const EXPERIENCES = [
   {
-    year: "Jan '23 - Present",
+    year: "Jan '24 - Present",
     role: "Problem Solver",
     company: "Amazon Fulfillment Centre and Service Provider",
     description: `
