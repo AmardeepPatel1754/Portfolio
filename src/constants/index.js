@@ -71,20 +71,27 @@ export const CERTIFICATES = [
 export const EXPERIENCES = [
   {
     year: "Jan '24 - Present",
-    role: "Problem Solver",
+    role: "Process Guide - Part Time",
     company: "Amazon Fulfillment Centre and Service Provider",
     description: `
-Overcame challenges and resolved real-time issues by applying analytical skills and collaborating with diverse teams to address root causes effectively.`,
+I implemented productivity strategies, monitored daily progress toward targets, and provided hands-on coaching and training to enhance associates' skills. I quickly identified and addressed any issues, ensuring smooth operations and continuous improvement.`,
     technologies: ["Microsoft Office", "Amazon Chime", "Problem Solving", "Task Management"],
   },
   {
     year: "Oct '22 - Sept '23",
-    role: "Team Leader",
+    role: "Team Leader - Part Time",
     company: "Pizza Hut",
     description: `
 As a team leader, I coordinated workflow, set schedules, and supervised food preparation and assembly. I managed stock records, ensured customer satisfaction, and handled inquiries and complaints, all while adhering to health and safety regulations.`,
     technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
+  {
+    year: "Oct '22 - Present",
+    role: "FrontEnd Developer",
+    company: "Veeva Systems",
+    description: `
+As a Front-End Developer, I built scalable user interfaces using ReactJS, JavaScript, and TypeScript. I developed responsive, accessible components with Tailwind CSS and Bootstrap, and ensured performance through code optimization, Git version control, and regular code reviews.`
+  }
 ];
 
 export const PROJECTS = [
